@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6ui4raujo
 - 📚 New Github Profile for studying
-- 👀 I’m interested in Robotics,
+- 👀 I’m interested in Robotics, Backend Programming and Sports btw
 - 🌱 I’m currently learning Data Design and Development and Computer Structures
 
 
